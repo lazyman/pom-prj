@@ -2,14 +2,13 @@
   <parent>
     <artifactId>pom5</artifactId>
     <groupId>cn.com.lazyhome.pom</groupId>
-    <version>2</version>
+    <version>3-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>cn.com.lazyhome.pom</groupId>
   <artifactId>apppom</artifactId>
   <packaging>pom</packaging>
   <name>application pom</name>
-  <version>2</version>
   <description>pom for application</description>
   <build>
   	<defaultGoal>deploy</defaultGoal>
