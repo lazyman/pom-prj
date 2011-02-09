@@ -5,12 +5,12 @@
 	<artifactId>webpom</artifactId>
 	<packaging>pom</packaging>
 	<name>web app POM</name>
-	<version>3.1</version>
+	<version>3.1.1</version>
 	<description>POM for web application,with db connector.use webservice by axis1.4</description>
 	<parent>
 		<artifactId>pom5</artifactId>
 		<groupId>cn.com.lazyhome.pom</groupId>
-		<version>3</version>
+		<version>3.0.1</version>
 	</parent>
 	<build>
 		<defaultGoal>deploy</defaultGoal>
@@ -75,12 +75,6 @@
 			<groupId>org.apache.axis</groupId>
 			<artifactId>axis-saaj</artifactId>
 			<version>1.4</version>
-		</dependency>
-		<dependency>
-			<groupId>commons-logging</groupId>
-			<artifactId>commons-logging</artifactId>
-			<version>1.0.4</version>
-			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
 </project>
