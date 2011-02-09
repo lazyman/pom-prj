@@ -2,7 +2,7 @@
   <parent>
     <artifactId>pom5</artifactId>
     <groupId>cn.com.lazyhome.pom</groupId>
-    <version>1-SNAPSHOT</version>
+    <version>3</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>cn.com.lazyhome.pom</groupId>

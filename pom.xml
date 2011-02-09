@@ -5,7 +5,7 @@
 	<artifactId>pom5</artifactId>
 	<packaging>pom</packaging>
 	<name>java 5 pom</name>
-	<version>1-SNAPSHOT</version>
+	<version>3</version>
 	<description>v1.5 compiler
 and 
 distributionManagement
